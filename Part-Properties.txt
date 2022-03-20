@@ -12,20 +12,19 @@ Tag:
 
 
 Build:
-CPU
-CPU Cooler
-Motherboard
-Memmory
-Storage 
-Video Card
+CPU +
+CPU Cooler +
+Motherboard +
+Memmory +
+Storage  +
+Video Card +
 Case
-Power Supply 
+Power Supply  +
 OS
-Price 
 Estimated Watage
 
 
-CPU:
+CPU: +
 Manufacturer: AMD
 Part No.: 100-100000065BOX
 Core Count: 6
@@ -46,7 +45,7 @@ Model: text
 Part No:
 Fan Min RPM: 600
 Fan Max RPM: 2000
-Noise min lvl: 8 dB
+Noise min lvl: 8 dB -
 Noise max lvl: 30 dB
 Compatable sokets: list of sockets
 
@@ -60,12 +59,12 @@ Max Memmory: 128 GB
 Memmory type: DDR4
 Memmory Slots: 4
 Memmory Speed: 2133-4400
-Form Factor: ATX/MINI ATX/Micro ATX
+Form Factor: ATX/MINI ATX/Micro ATX -
 
 Memmory:
 Manufacturer
 Part no
-Form Factor: 288-pin DIMM(DDR4)
+type: ddr4
 Modules count: 2
 Module Capacity: 8Gb
 CAS Latency: 16
@@ -77,7 +76,7 @@ Manufacturer:
 Part NO:
 Capacity:
 Interface: Sata/M.2
-Nvme: true/false
+Nvme: true/false -
 
 Video CardL
 Manufacturer:
@@ -88,22 +87,22 @@ Memmory Type: GDDR6
 Core Clock:
 Boost Clock:
 TDP:
-HDMI Ports Count:
-DisplayPort Count:
+HDMI Ports Count: -
+DisplayPort Count: -
 
 Case:
 Manufacturer
 Part No
-Type: ATX mid tower/full tower etc.
-Color:
-Has RGB:
-Motherboard Form Factor
+Type: ATX mid tower/full tower etc. -
+Color: -
+Has RGB: -
+Motherboard Form Factor -
 
 
 Power Supply:
 Manufacturer
 Part No
-Form Factor
-Efficienty Rating: 
-Watage
-Modular: bool
+Form Factor -
+Efficienty Rating:  -
+Watage -
+Modular: bool -
