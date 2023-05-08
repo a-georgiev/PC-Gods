@@ -1,0 +1,30 @@
+C:\Users\Toka\source\repos\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Core.deps.json
+C:\Users\Toka\source\repos\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Core.dll
+C:\Users\Toka\source\repos\PCBuilds.Core\bin\Debug\net6.0\ref\PCBuilds.Core.dll
+C:\Users\Toka\source\repos\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Core.pdb
+C:\Users\Toka\source\repos\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Infrastructure.dll
+C:\Users\Toka\source\repos\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Infrastructure.pdb
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.csproj.AssemblyReference.cache
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.AssemblyInfoInputs.cache
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.AssemblyInfo.cs
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.csproj.CoreCompileInputs.cache
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.csproj.CopyComplete
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.dll
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\ref\PCBuilds.Core.dll
+C:\Users\Toka\source\repos\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.pdb
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Core.deps.json
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Core.dll
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Core.pdb
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Infrastructure.dll
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\bin\Debug\net6.0\PCBuilds.Infrastructure.pdb
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.csproj.AssemblyReference.cache
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.AssemblyInfoInputs.cache
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.AssemblyInfo.cs
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.csproj.CoreCompileInputs.cache
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.csproj.CopyComplete
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.dll
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\refint\PCBuilds.Core.dll
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\PCBuilds.Core.pdb
+E:\First Win 11 Backup\Courses\SoftUni\C#ASP.NET Core\Exam\PC-Gods\PCBuilds.Core\obj\Debug\net6.0\ref\PCBuilds.Core.dll
